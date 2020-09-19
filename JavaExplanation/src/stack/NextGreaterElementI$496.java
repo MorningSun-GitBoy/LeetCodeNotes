@@ -7,6 +7,13 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Stack;
 
+/**
+ * @TimeComplexity  O(n)
+ * @SpaceComplexity O(n)
+ * @Since 2020-09-13
+ * @TimeOver    99.17%
+ * @SpaceOver   46.25%
+ */
 public class NextGreaterElementI$496 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new FileInputStream("CaseFiles/Stack/NextGreaterElement_I_496_Input"));
