@@ -6,6 +6,13 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+/**
+ * @TimeComplexity O(1)
+ * @SpaceComplexity O(1)
+ * @Since 2020-12-20
+ * @TimeOver    92.90%
+ * @SpaceOver   79.28%
+ */
 public class NumberOfRecentCalls$933 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new FileInputStream("CaseFiles\\Queue\\NumberOfRecentCalls_933_Input"));
