@@ -7,6 +7,13 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+/**
+ * @TimeComplexity  O(n^2)
+ * @SpaceComplexity O(n)
+ * @Since 2020-09-20
+ * @TimeOver    38.81%
+ * @SpaceOver   67.22%
+ */
 public class TransposeMatrix$867 {
     public static void main(String[] args) throws FileNotFoundException {
         Solution s = new Solution();
