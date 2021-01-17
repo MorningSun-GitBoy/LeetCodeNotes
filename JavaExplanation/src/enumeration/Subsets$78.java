@@ -27,7 +27,7 @@ public class Subsets$78 {
                         t.add(nums[i]);
                     }
                 }
-                ans.add(new ArrayList<Integer>(t));//将新对象胶乳到结果集中
+                ans.add(new ArrayList<Integer>(t));//将新对象加入到结果集中
             }
             return ans;
         }
